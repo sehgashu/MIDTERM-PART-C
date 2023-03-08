@@ -44,3 +44,5 @@ public class Card {
         this.value = value;
     }  
 }
+
+this course is so difficult
